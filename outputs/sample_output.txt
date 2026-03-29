@@ -1,0 +1,52 @@
+==========================================================================================
+QUESTION: How can I cancel my monthly plan and how much notice is required?
+
+RETRIEVED:
+- 3.1 Monthly Plan Cancellation: You may cancel at any time with 7 days notice before your next billing date. | score=0.601
+- 1.1 Monthly Plan: Billed monthly until cancelled. | score=0.408
+- 1.2 Annual Plan: Prepaid for 12 months; non-refundable except where required by law. | score=0.268
+- 2.1 Billing Date: Monthly charges occur on the same calendar day you enroll. | score=0.125
+
+ANSWER:
+Answer: You may cancel at any time with 7 days notice before your next billing date.
+Evidence (Section IDs): 3.1
+
+==========================================================================================
+QUESTION: What is the freeze policy and what is the fee?
+
+RETRIEVED:
+- 4.3 Freeze Fee: A $5 administrative fee applies per freeze request. | score=0.661
+- 4. Freeze (Pause) Policy | score=0.584
+- 3. Cancellation Policy | score=0.419
+- 5. Guest Policy | score=0.363
+
+ANSWER:
+Answer: The freeze policy is in section 4. The fee is $5 per freeze request.
+Evidence (Section IDs): 4., 4.3
+
+==========================================================================================
+QUESTION: How many guests can I bring and when are guests allowed?
+
+RETRIEVED:
+- 5.2 Each member may bring up to 2 guests per month. | score=0.581
+- 5.1 Guests are allowed only during staffed hours. | score=0.566
+- 5.3 Guests must sign a liability waiver upon entry. | score=0.294
+- 10. Contact | score=0.000
+
+ANSWER:
+Answer: Each member may bring up to 2 guests per month and guests are allowed only during staffed hours.
+Evidence (Section IDs): 5.2, 5.1
+
+==========================================================================================
+QUESTION: Does the gym accept cryptocurrency payments?
+
+RETRIEVED:
+- 2. Billing and Payments | score=0.486
+- 3.3 Annual Plan Cancellation: Early cancellation does not provide refunds for unused months. | score=0.198
+- 8.2 The gym is not responsible for lost or stolen items. | score=0.191
+- 9.1 The gym collects basic personal information for membership management. | score=0.169
+
+ANSWER:
+Answer:
+I cannot find this in the provided contract text.
+
