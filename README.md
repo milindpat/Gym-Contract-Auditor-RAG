@@ -127,7 +127,7 @@ python -m pip install -r requirements.txt
 ```
 ## Environment Setup
 
-Create .env file in project root:
+Create a `.env` file in the project root to securely store your API key (this file is excluded from version control via `.gitignore`):
 ```
 GOOGLE_API_KEY=your_api_key_here
 ```
